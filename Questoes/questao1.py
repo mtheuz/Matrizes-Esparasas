@@ -1,4 +1,5 @@
-#Usando dicionários para implementar matrizes, escreva um programa que leia um número inteiro e uma matriz 4 x 4 de inteiros, e obtenha uma segunda matriz resultado do produto da matriz original pelo número lido. Imprima a matriz resultado.
+#Usando dicionários para implementar matrizes, escreva um programa que leia um número inteiro e uma matriz 4 x 4 de inteiros, e 
+#obtenha uma segunda matriz resultado do produto da matriz original pelo número lido. Imprima a matriz resultado.
 matriz = {}
 num = int(input('Digite um numero: \n->'))
 
